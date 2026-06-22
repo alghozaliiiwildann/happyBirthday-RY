@@ -3,8 +3,8 @@ import { Play } from 'lucide-react';
 
 const videos = [
   {
-    url: 'public/images/WhatsApp Video 2026-06-20 at 12.08.22 AM.mp4',
-    thumbnail: 'public/images/potobook.jpeg',
+    url: '/images/WhatsApp Video 2026-06-20 at 12.08.22 AM.mp4',
+    thumbnail: '/images/potobook.jpeg',
     title: '✨ A Collection of Precious Memories',
     description: 'Video ini bukan hanya kumpulan foto dan klip, tetapi kumpulan cerita, tawa, dan kebahagiaan yang pernah kita ciptakan bersama. Semoga saat menontonnya, kamu bisa merasakan kembali hangatnya setiap kenangan yang kita miliki. 🎀🤍',
   },

@@ -3,32 +3,32 @@ import { Camera } from 'lucide-react';
 
 const photos = [
   {
-    url: 'public/images/couple.jpeg',
+    url: '/images/couple.jpeg',
     caption: 'Dunia boleh terbalik, tapi bahagia selalu saat bersamamu 🤍✨',
     rotate: '-2deg',
   },
   {
-    url: 'public/images/jogging.jpeg',
+    url: '/images/jogging.jpeg',
     caption: 'Langkah sederhana terasa istimewa saat kita berjalan bersama 🌿💞',
     rotate: '1deg',
   },
   {
-    url: 'public/images/mirror.jpeg',
+    url: '/images/mirror.jpeg',
     caption: 'Menyimpan sejuta cerita dan tawa dalam satu bingkai kenangan 📸💕',
     rotate: '-1deg',
   },
   {
-    url: 'public/images/potobook1.jpeg',
+    url: '/images/potobook1.jpeg',
     caption: 'Bersamamu, setiap momen terasa seperti petualangan yang tak terlupakan 🤠❤️',
     rotate: '2deg',
   },
   {
-    url: 'public/images/nice.jpeg',
+    url: '/images/nice.jpeg',
     caption: 'Tawa kecil dan wajah jahilmu selalu jadi alasan hariku lebih berwarna 😆💗',
     rotate: '-1.5deg',
   },
   {
-    url: 'public/images/mirror1.jpeg',
+    url: '/images/mirror1.jpeg',
     caption: 'Semoga kita terus menciptakan kenangan-kenangan indah berikutnya 🌸🎂',
     rotate: '1.5deg',
   },
