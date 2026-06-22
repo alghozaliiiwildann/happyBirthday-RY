@@ -1,0 +1,14 @@
+# Dependency
+node_modules
+
+# Build hasil Vite
+dist
+
+# Environment variable
+.env
+
+# Log
+*.log
+
+# Cache Vite
+.vite
